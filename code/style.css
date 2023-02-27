@@ -1,0 +1,28 @@
+#container {
+    width: 70%;
+    margin: 0 auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: larger
+    }
+
+p {
+padding: 5px;
+}
+
+
+.radioList div {
+    display: flex;
+    background-color: rgba(108, 86, 86, 0.362);
+    margin: 15px;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px 0px ;
+    width: 100%;
+    padding:10px;
+}
+
+img {
+    height: 90px;
+    margin: 20px;
+    border-radius: 20px 0px ;
+}
